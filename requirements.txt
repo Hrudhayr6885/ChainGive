@@ -1,0 +1,32 @@
+# ============================================================
+# Charity Blockchain Platform - Requirements
+# ============================================================
+
+# Web Framework
+Flask==3.0.3
+Flask-Session==0.5.0
+
+# Database (optional, for production)
+# SQLAlchemy==2.0.0
+# Flask-SQLAlchemy==3.0.0
+
+# Security
+cryptography==41.0.0
+
+# Testing
+pytest==7.4.0
+pytest-flask==1.3.0
+
+# Development
+python-dotenv==1.0.0
+
+# API Documentation
+# Swagger==0.1.0
+
+# Optional: Ethereum integration (for future deployment)
+# web3==6.10.0
+# eth-account==0.9.0
+
+# ============================================================
+# To install: pip install -r requirements.txt
+# ============================================================
